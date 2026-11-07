@@ -1,0 +1,5 @@
+difference between git merge and git rebase
+
+git merge is used to combine the one branch into the another branch and it will create the new merge commit
+
+git had fast forward merge is nothing but branch pointer move forward it will not create the merge commit
